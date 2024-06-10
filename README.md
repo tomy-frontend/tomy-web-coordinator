@@ -5,7 +5,7 @@
 - 📫 How to reach me: Please contact me on Twitter!
 
 - ![](https://github-readme-stats.vercel.app/api/top-langs?username=tomy-web-coordinator)
-
+![](https://skillicons.dev/icons?i=html,css,js,php)
 <!---
 tomy-web-coordinator/tomy-web-coordinator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
